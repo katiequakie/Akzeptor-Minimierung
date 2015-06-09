@@ -21,7 +21,7 @@ public:
 	int getNrOfEqClasses();
 	void printEqClasses();
 	void minimize(Acceptor* pAcceptor);
-	void minimize(Acceptor& pAcceptor, Minimizer& pPrevMinimizer);
+	void minimize(Acceptor* pAcceptor, Minimizer* pPrevMinimizer);
 private:
 
 };

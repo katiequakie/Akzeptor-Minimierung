@@ -126,6 +126,6 @@ void Minimizer::minimize(Acceptor* pAcceptor)
 	this->addEqClass(&EQ_2);
 }
 
-void Minimizer::minimize(Acceptor& pAcceptor, Minimizer& pPrevMinimizer)
+void Minimizer::minimize(Acceptor* pAcceptor, Minimizer* pPrevMinimizer)
 {
 }
