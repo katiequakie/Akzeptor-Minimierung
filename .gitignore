@@ -1,0 +1,15 @@
+AcceptorMinimizer/AcceptorMinimizer.vcxproj.filters
+*.vcxproj
+*.suo
+AcceptorMinimizer/Debug/Acceptor.AC1F631C.tlog/cl.command.1.tlog
+*.tlog
+AcceptorMinimizer/Debug/EquivalenceClass.obj
+*.obj
+AcceptorMinimizer/Debug/vc120.pdb
+*.idb
+*.ilk
+Debug/AcceptorMinimizer.pdb
+*.exe
+*.log
+AcceptorMinimizer.sln
+*.sdf
